@@ -27,7 +27,7 @@
         {
           "name": "商品详情",
           "pathName": "pages/goods_detail/index",
-          "query": "goods_id=43986",
+          "query": "goods_id=1",
           "scene": null
         },
         {
